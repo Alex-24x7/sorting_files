@@ -1,0 +1,95 @@
+./Lesson 1/DZ1.py
+./Lesson 5/DZ5_4.py
+./Lesson 5/DZ5_2b.py
+./Lesson 5/DZ5_1.py
+./Lesson 5/DZ5_2a.py
+./Lesson 5/DZ5_2.py
+./Lesson 5/DZ5_3.py
+./Lesson 2/DZ2.py
+./Lesson 3/DZ3.py
+./Lesson 4/DZ4.py
+./.git/objects/95/f2999b78bf028afad172f22d75f120ef31e62a
+./.git/objects/ad/f046ae662027f12bad42aaa1b8c1fb38925e47
+./.git/objects/86/87116b055b10fa7ff4e36ef8f7f5d0de5062b9
+./.git/objects/d4/51031c436a27fa7dcee62b4de9634ffa175b12
+./.git/objects/8e/d97e58d6a3a8c14d6246c7b70966deab22b0f6
+./Lesson 1/examp1.py
+./.git/objects/3c/01c2d99dac22e93166dd5ea3e6efd9fe51e70d
+./.git/objects/56/dd2573c9ce40827439b123bc4435ed48f9646c
+./.git/objects/93/73b03ce44e24786521f96cdccb7e691e761d40
+./.git/objects/34/26846b47ec94ff102f75f516add1e9a0ee5b9f
+./.git/objects/05/de6acada881d3e37a856aa55d2b2337615485f
+./.git/objects/b2/d3c7d16f43581f839513f57369a4a33931a467
+./.git/objects/d7/991ed60b7928127953f2a6e0718fab17476495
+./.git/objects/b3/aedf18d78c5edac11c5f9d9deb289fb9b8c7cf
+./.git/objects/e5/9473cb3044949a299e64cb03c829dbe90b32b5
+./.git/objects/e2/423609abf13e9d7726e9d6377757035b834cdc
+./.git/objects/ee/5f2f68ab7761bc20bb1a37b35729d2ae7d2458
+./.git/objects/c9/2aacbc51b3d9d80debdcdd2300610c101c8d48
+./.git/objects/e3/9513587d4763d3c4defc248d46ca75d92d18bf
+./.git/objects/e4/d37593929d0f366cbb3ab2e95ddc2baf52a1a1
+./.git/objects/c6/da08ba8c5d2dad1df30bfcd7f13b86d2c37501
+./.git/objects/18/b3dc291e520e0c83f21417831e992f9a93ad23
+./.git/objects/4b/825dc642cb6eb9a060e54bf8d69288fbee4904
+./.git/objects/45/25bfca128e5df4461519157865c3742b343aff
+./.git/objects/1f/bef91aac8e89f80bdbe061f5fad148cedf39b8
+./.git/objects/74/72171f4c8829eb546beddff3b3a587392fcdd8
+./.git/objects/7b/124e172f0f3fe2f9142fd0da8f9c2656d6fa13
+./.git/objects/8a/2757aa79cf26a6e2f96569ef3242c660c5d484
+./.git/objects/10/f4caf6c73be40519b91f304de4cfa00cf344fb
+./.git/objects/10/a0e7a0402b420ec9743d818ad244ef60e08df0
+./.git/objects/4c/074d6dff2975b808a13cf94c9c886451634e00
+./.git/objects/4d/b11982017495fc0c80ccbdfab1fce6b15c29e7
+./.git/objects/62/9d51c9c964854eec28b0bc1f63f3dd0363e5e1
+./.git/objects/54/336d5ea717860b55331858553c7abfbf35f4f8
+./.git/objects/3f/e582330b3ff2ba04f1f97665bea323a8cd75b2
+./.git/objects/d3/b424d952ddeecc16c6953e0757acfa1c19a6f9
+./.git/objects/a7/cbdd00e52974e26afadaab9d7b82440b2eafc4
+./.git/objects/d2/55a1b10ae0b24d9fcec55feca6320dee5325ab
+./.git/objects/b9/d2a27f36398392637dbd4c74c11bcadee9bb0d
+./.git/objects/ef/abdd95c2e786f7c7009f5f5f032c6d5ab5ad33
+./.git/objects/ea/e595adabbef3585716003ff76691a84939a13a
+./.git/objects/e6/9de29bb2d1d6434b8b29ae775ad8c2e48c5391
+./.git/objects/e8/28a7b6b0a6b4fb10fb865917bbcdc8f897ddae
+./.git/objects/fa/f9a3a40c3428932d8669fead343dbe9273c29e
+./.git/objects/f6/53822461c6c2ad854a4fe7b3b37ce19effffab
+./.git/objects/ce/f94f3a1e7a7242a389311a2efdafddea2fbb5d
+./.git/objects/41/9fcb004ed9e4d1b8c00e0efb6dc3cca1dd2c57
+./.git/objects/8d/7175ed2e8b203527772ead11b39fe822cd9b33
+./.git/objects/85/fdb64321ee70d1b0abb004a8285c123e9a4509
+./.git/objects/1c/b764aed32fef2523aedd0ce4c7e9c1a476e43e
+./.git/objects/8b/cee4c9f8ed5e8d4e54b4718291a260821674d4
+./.git/info/exclude
+./.git/logs/refs/heads/main
+./.git/logs/refs/remotes/Pyton/main
+./.git/logs/refs/remotes/origin/main
+./.git/logs/HEAD
+./.git/hooks/commit-msg.sample
+./.git/hooks/pre-rebase.sample
+./.git/hooks/pre-commit.sample
+./.git/hooks/applypatch-msg.sample
+./.git/hooks/fsmonitor-watchman.sample
+./.git/hooks/pre-receive.sample
+./.git/hooks/prepare-commit-msg.sample
+./.git/hooks/post-update.sample
+./.git/hooks/pre-merge-commit.sample
+./.git/hooks/pre-applypatch.sample
+./.git/hooks/pre-push.sample
+./.git/hooks/update.sample
+./.git/hooks/push-to-checkout.sample
+./.git/refs/heads/main
+./.git/refs/remotes/Pyton/main
+./.git/refs/remotes/origin/main
+./.git/ORIG_HEAD
+./.git/config
+./.git/HEAD
+./.git/description
+./.git/index
+./.git/COMMIT_EDITMSG
+./.git/FETCH_HEAD
+./.DS_Store
+./List.txt
+./sort.py
+./test.py
+./sandbox.py
+./mask.txt
